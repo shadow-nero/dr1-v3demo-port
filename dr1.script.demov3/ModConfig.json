@@ -1,0 +1,28 @@
+{
+  "ModId": "dr1.script.demov3",
+  "ModName": "Danganronpa Demo V3",
+  "ModAuthor": "morgana",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Allows you to play the Demo of Danganronpa V3",
+  "ModDll": "",
+  "ModIcon": "preview.jpg",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "dr1.script.demov3.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.universal.fileemulationframework.wad"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "dr1_us.exe"
+  ],
+  "ProjectUrl": ""
+}
